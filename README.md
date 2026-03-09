@@ -19,14 +19,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tuser579&theme=radical&no-frame=false&no-bg=false&margin-w=6&row=1" alt="tuser579 trophies" />
-</div>
-
----
-
 ## 👨‍💻 About Me
 
 ```typescript
@@ -146,7 +138,6 @@ const tuser = {
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tuser579/tuser579/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tuser579/tuser579/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/tuser579/tuser579/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <br/>
