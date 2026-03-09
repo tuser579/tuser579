@@ -122,14 +122,6 @@ const tuser = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tuser579&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuser579&layout=compact&langs_count=8&theme=radical" />
-
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuser579&theme=radical&hide_border=false" alt="GitHub Streak" />
 </div>
 
@@ -139,7 +131,6 @@ const tuser = {
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tuser579/tuser579/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tuser579/tuser579/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/tuser579/tuser579/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
