@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tuser579" alt="tuser579" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@md_57990667" target="blank"><img src="https://img.shields.io/twitter/follow/@md_57990667?logo=twitter&style=for-the-badge" alt="@md_57990667" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@md_57990667" target="blank"><img src="https://img.shields.io/twitter/follow/md_57990667?logo=twitter&style=for-the-badge" alt="@md_57990667" /></a> </p>
 
 - 🔭 I’m currently working on [ChatApp](https://chat-app-two-teal-79.vercel.app/)
 
