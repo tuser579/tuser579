@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/md-muttakiul-islam-tuser-36b104388](https://www.linkedin.com/in/md-muttakiul-islam-tuser-36b104388)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React.js**
 
 - 📫 How to reach me **tusermon720@gmail.com**
 
